@@ -12,5 +12,5 @@ function counter(){
 		}
 		$('.content').html(d+':'+h+':'+m+':'+s)
 	}, 1000);
-  
-  counter();
+}
+counter();
