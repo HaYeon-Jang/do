@@ -3,6 +3,20 @@ html {
 }
 
 body {
-    background: skyblue;
+    background: gold ;
     color: white;
+}
+
+div{
+	position:absolute;
+	width:300px;
+	height: 100px;
+	top:250px;
+	right:450px;
+	background: ghostwhite;
+	color:black;
+	padding:10px;
+	border:20px double;
+	border-color: grey;
+	font-size: 2em;
 }
